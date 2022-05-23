@@ -1,2 +1,6 @@
 # MS_Thesis_Codes
-Repository that contains crucial code used in my thesis.
+This is a repository that contains crucial code and documents used in my thesis entitled /Avalanches in a stochastic self-propagating star formation model.
+
+## Contents:
+===========================================
+1. 
